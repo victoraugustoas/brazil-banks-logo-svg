@@ -40,4 +40,5 @@ svg
 |  237   |                          Banco Bradesco S.A.                           |
 |  260   |                           Nu Pagamentos S.A.                           |
 |  318   |                             Banco BMG S.A.                             |
+|  336   |                             Banco C6 S.A.                             |
 |  380   |                          PICPAY SERVICOS S.A.                          |
