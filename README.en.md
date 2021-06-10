@@ -1,0 +1,1 @@
+# Brazil Banks Logo SVG
